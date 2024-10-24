@@ -8,13 +8,14 @@
 
 <div> 
   <a href="https://www.linkedin.com/groups/9247556/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 50px; margin-right: 10px;">
-  </a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 50px; margin-right: 10px;"></a> 
   <a href="https://grupolabr.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website Grupo Lab R-%233ccd96?style=for-the-badge&logo=google-chrome&logoColor=%230d02b4&labelColor=%23fee21d" target="_blank" style="height: 50px;">
-  </a> 
+    <img src="https://img.shields.io/badge/Website Grupo Lab R-%233ccd96?style=for-the-badge&logo=google-chrome&logoColor=%230d02b4&labelColor=%23fee21d" target="_blank" style="height: 50px;"></a> 
 </div>
 
+
+<!--Redes Sociais-->
+<div>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labrgrupo/labrgrupo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labrgrupo/labrgrupo/output/github-contribution-grid-snake.svg">
@@ -23,3 +24,5 @@
   
 </div>
 <br><br><br><br>
+ㅤWelcome! 😄 
+
