@@ -14,3 +14,12 @@
     <img src="https://img.shields.io/badge/Website Grupo Lab R-%233ccd96?style=for-the-badge&logo=google-chrome&logoColor=%230d02b4&labelColor=%23fee21d" target="_blank" style="height: 50px;">
   </a> 
 </div>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labrgrupo/labrgrupo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labrgrupo/labrgrupo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labrgrupo/labrgrupo/output/github-contribution-grid-snake.svg">
+</picture>
+  
+</div>
+<br><br><br><br>
