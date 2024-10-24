@@ -3,13 +3,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lab-R" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
-  
-  ##
- 
+
+##
+
 <div> 
-  <a href="https://www.linkedin.com/groups/9247556/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://grupolabr.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%2300FF00?style=for-the-badge&logo=google-chrome&logoColor=%230000FF&labelColor=%23FFFF00&border=1px%20solid%20%23000000" target="_blank">
+  <a href="https://www.linkedin.com/groups/9247556/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 50px; margin-right: 10px;">
   </a> 
-  
+  <a href="https://grupolabr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website Grupo Lab R-%233ccd96?style=for-the-badge&logo=google-chrome&logoColor=%230d02b4&labelColor=%23fee21d" target="_blank" style="height: 50px;">
+  </a> 
 </div>
