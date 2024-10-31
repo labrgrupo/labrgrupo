@@ -1,4 +1,4 @@
-## Nós somos o Lab R Group, um coletivo voluntário focado em transformar a gestão da qualidade em laboratórios clínicos no Brasil usando programação em R. Aqui você encontra recursos, projetos inovadores e as novidades sobre nossas ferramentas de qualidade!
+## Nós somos o Lab R Group, um coletivo voluntário focado em transformar a gestão da qualidade em laboratórios clínicos no Brasil usando programação em R. Aqui você encontra recursos, projetos e as novidades sobre nossas ferramentas de qualidade!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lab-R" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
